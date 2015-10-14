@@ -86,4 +86,4 @@ def cuando_colisiona(enemigo, bala):
 # Arrancar el juego
 pilas.colisiones.agregar(torreta, monos, cuando_colisiona)
 pilas.ejecutar()
-pilas.ejecutar()
+
